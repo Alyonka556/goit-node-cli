@@ -1,0 +1,8 @@
+{
+  "name": "goit-node-cli",
+  "type": "module",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "nanoid": "^5.0.5"
+  }
+}
